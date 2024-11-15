@@ -14,14 +14,46 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vishalpati11689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishalpati11689" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vishal-patidar-234249286/" target="blank"><img align="center" alt="https://www.linkedin.com/in/vishal-patidar-234249286/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100025162934889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100025162934889" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/vishal_ptdr07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vishal_ptdr07/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/vishalptdr7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/vishalptdr7" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/patidarvishal233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/patidarvishal233" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/vishalpatidar7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vishalpatidar7/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/patidarvishal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/patidarvishal/" height="30" width="40" /></a>
+<a href="https://twitter.com/vishalpati11689" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+    alt="vishalpati11689" height="30" width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/vishal-patidar-234249286/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+    alt="LinkedIn Profile" height="30" width="40" />
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100025162934889" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
+    alt="Facebook Profile" height="30" width="40" />
+</a>
+
+<a href="https://www.instagram.com/vishal_ptdr07/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+    alt="Instagram Profile" height="30" width="40" />
+</a>
+
+<a href="https://www.codechef.com/users/vishalptdr7" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" 
+    alt="CodeChef Profile" height="30" width="40" />
+</a>
+
+<a href="https://www.hackerrank.com/patidarvishal233" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" 
+    alt="HackerRank Profile" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/vishalpatidar7/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
+    alt="LeetCode Profile" height="30" width="40" />
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/patidarvishal/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" 
+    alt="GeeksforGeeks Profile" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
