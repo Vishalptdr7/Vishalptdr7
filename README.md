@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vishalpati11689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishalpati11689" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vishal-patidar-234249286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-patidar-234249286/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vishal-patidar-234249286/" target="blank"><img align="center" alt="https://www.linkedin.com/in/vishal-patidar-234249286/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100025162934889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100025162934889" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/vishal_ptdr07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vishal_ptdr07/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/vishalptdr7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/vishalptdr7" height="30" width="40" /></a>
