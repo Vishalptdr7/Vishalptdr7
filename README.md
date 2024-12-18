@@ -133,4 +133,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalptdr7&show_icons=true&locale=en&layout=compact" alt="vishalptdr7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalptdr7&show_icons=true&locale=en" alt="vishalptdr7" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vishalptdr7&include_all_commits=true" alt="Vishalptdr7" /></p>
+
+
+
