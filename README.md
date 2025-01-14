@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/24c6287be76c155a12345cb131d1379589070ec28c94088f4582f19d3a1865e9/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313237322f312a5a53566d57476363317765454e6230536861775778772e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalptdr7&label=Profile%20views&color=0e75b6&style=flat" alt="vishalptdr7" /> </p>
 
-- 🔭 I’m currently working on **E-Learning Website**
 
-- 🌱 I’m currently learning **DSA.**
+
+  
 <li> 📄 Know about my experiences <a href="https://www.canva.com/design/DAGTSJRr8I8/74FaR7BptztCyiad1fRcBw/view?utm_content=DAGTSJRr8I8&utm_campaign=designshare&utm_medium=link&utm_source=editor">Resume</a> </li>
 
 - 📫 How to reach me **patidarvishal233@gmail.com**
