@@ -17,25 +17,25 @@
 <p align="left">
     <a href="https://www.linkedin.com/in/vishal-patidar-234249286/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-    alt="LinkedIn Profile" height="40" width="50" />
+    alt="LinkedIn Profile" height="35" width="45" />
 </a>
 
 
 <a href="https://leetcode.com/vishalpatidar7/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
-    alt="LeetCode Profile" height="40" width="50" />
+    alt="LeetCode Profile" height="35" width="45" />
 </a>
 
 
 <a href="https://auth.geeksforgeeks.org/user/patidarvishal/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" 
-    alt="GeeksforGeeks Profile" height="40" width="50" />
+    alt="GeeksforGeeks Profile" height="35" width="45" />
 </a>
 
 
 <a href="https://www.codechef.com/users/vishalptdr7" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" 
-    alt="CodeChef Profile" height="40" width="50" />
+    alt="CodeChef Profile" height="35" width="45" />
 </a>
 
 
@@ -43,7 +43,7 @@
 
 <a href="https://www.hackerrank.com/patidarvishal233" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" 
-    alt="HackerRank Profile" height="40" width="50" />
+    alt="HackerRank Profile" height="35" width="45" />
 </a>
 
 
@@ -51,19 +51,19 @@
     
 <a href="https://twitter.com/vishalpati11689" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-    alt="vishalpati11689" height="40" width="50" />
+    alt="vishalpati11689" height="35" width="45" />
 </a>
 
 
 
 <a href="https://www.facebook.com/profile.php?id=100025162934889" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
-    alt="Facebook Profile" height="40" width="50" />
+    alt="Facebook Profile" height="35" width="45" />
 </a>
 
 <a href="https://www.instagram.com/vishal_ptdr07/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-    alt="Instagram Profile" height="40" width="50" />
+    alt="Instagram Profile" height="35" width="45" />
 </a>
 
 
