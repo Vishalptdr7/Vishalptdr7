@@ -7,7 +7,7 @@
 
 
   
-<li> 📄 Know about my experiences <a href="https://www.canva.com/design/DAGTSJRr8I8/74FaR7BptztCyiad1fRcBw/view?utm_content=DAGTSJRr8I8&utm_campaign=designshare&utm_medium=link&utm_source=editor">Resume</a> </li>
+- 📄 Know about my experiences <a href="https://www.canva.com/design/DAGTSJRr8I8/74FaR7BptztCyiad1fRcBw/view?utm_content=DAGTSJRr8I8&utm_campaign=designshare&utm_medium=link&utm_source=editor">Resume</a>
 
 - 📫 How to reach me **patidarvishal233@gmail.com**
 
